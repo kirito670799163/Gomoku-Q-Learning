@@ -26,9 +26,15 @@ An AI agent learns to play using Q-learning.
 
 ## Project Structure
 ├── gomoku_game.py
+
 ├── q_learning_agent.py
+
 ├── train.py
+
 ├── run_game.bat
+
 ├── play_gui.py
+
 ├── .gitignore
+
 └── README.md
